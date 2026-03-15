@@ -1,0 +1,8 @@
+{
+  "title": "Melody and Drums",
+  "code": "bd|A4  hh  sd|C5  hh  bd|E5  hh  sd|G5  hh\nbd|A4  hh  sd|C5  hh  bd|E5  cp  sd|G5  oh",
+  "bpm": 110,
+  "composer": "SongSpark",
+  "description": "Short melody (A4–G5) with kick, snare, hi-hat, clap and open hat. Drums and synth share the same time slot with |.",
+  "link": "https://github.com/frangedev/SongSpark"
+}

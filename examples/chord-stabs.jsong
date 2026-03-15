@@ -1,0 +1,8 @@
+{
+  "title": "Chord Stabs",
+  "code": "bd  bd  bd  bd\nsd  hh  sd  hh\nA4|C5|E5  hh  hh  G4|B4|D5\nhh  E4|G4|B4  hh  A4|C5|E5",
+  "bpm": 125,
+  "composer": "SongSpark",
+  "description": "House-style kick and snare with chord stabs (major triads) on the synth. Multiple notes with | play as a chord.",
+  "link": "https://github.com/frangedev/SongSpark"
+}

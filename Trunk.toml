@@ -1,0 +1,4 @@
+[build]
+# Use relative paths so the app works when served from any directory
+# (e.g. /SongSpark/dist/, IIS subfolder, or file server)
+public_url = "./"

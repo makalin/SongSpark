@@ -3,11 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="./">
     <title>SongSpark - Live Coding Music</title>
+    <style>
+      /* Critical dark theme - always applied */
+      body { margin: 0; background: #0d0d0f; color: #c8c8d0; font-family: 'JetBrains Mono', monospace; min-height: 100vh; }
+      #app { min-height: 100vh; }
+    </style>
     <link data-trunk rel="rust" data-wasm-opt="z" />
     <link data-trunk rel="css" href="styles.css" />
+    <link data-trunk rel="copy-dir" href="examples" data-target-path="examples" />
+    <link data-trunk rel="copy-dir" href="samples" data-target-path="samples" />
+    <link data-trunk rel="copy-dir" href="packs" data-target-path="packs" />
 </head>
-<body>
+<body data-theme="dark">
     <div id="app"></div>
 </body>
 </html> 

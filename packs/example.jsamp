@@ -1,0 +1,19 @@
+{
+  "bankName": "Example (samples folder)",
+  "baseUrl": "./samples/",
+  "metadata": {
+    "composer": "SongSpark",
+    "description": "Built-in drum samples (Drums, 808, FX).",
+    "link": "https://github.com/frangedev/SongSpark"
+  },
+  "samples": {
+    "bd": "Drums/Kick 1.0.wav",
+    "sd": "Drums/Snare I.wav",
+    "hh": "Drums/Closed Hi Hat I.wav",
+    "cp": "Drums/Clap I.wav",
+    "rim": "Drums/Rim I.wav",
+    "oh": "Drums/Open Hi Hat.wav",
+    "sh": "Drums/Shaker I.wav",
+    "perc": "Drums/Perc I.wav"
+  }
+}

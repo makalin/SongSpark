@@ -12,16 +12,33 @@ web-sys = { version = "0.3", features = [
     "AudioContext",
     "AudioBuffer",
     "AudioBufferSourceNode",
+    "AudioDestinationNode",
+    "AudioParam",
+    "BaseAudioContext",
     "GainNode",
     "StereoPannerNode",
+    "OscillatorNode",
+    "OscillatorType",
+    "AnalyserNode",
     "Window",
     "Document",
     "HtmlCanvasElement",
+    "HtmlSelectElement",
+    "HtmlAnchorElement",
+    "HtmlInputElement",
+    "HtmlElement",
+    "Element",
+    "KeyboardEvent",
     "CanvasRenderingContext2d",
+    "Blob",
+    "BlobPropertyBag",
+    "Url",
 ]}
 js-sys = "0.3"
 wasm-bindgen-futures = "0.4"
 gloo = "0.9"
+gloo-net = "0.5"
+gloo-timers = "0.3"
 cpal = "0.15"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"

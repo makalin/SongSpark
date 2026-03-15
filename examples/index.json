@@ -1,0 +1,15 @@
+[
+  { "id": "complex-house", "title": "Complex House", "file": "complex-house.jsong" },
+  { "id": "techno-loop", "title": "Techno Loop", "file": "techno-loop.jsong" },
+  { "id": "breakbeat-advanced", "title": "Breakbeat Advanced", "file": "breakbeat-advanced.jsong" },
+  { "id": "hiphop-groove", "title": "Hip-Hop Groove", "file": "hiphop-groove.jsong" },
+  { "id": "dnb-loop", "title": "Drum & Bass Loop", "file": "dnb-loop.jsong" },
+  { "id": "reggae-drop", "title": "Reggae One Drop", "file": "reggae-drop.jsong" },
+  { "id": "disco-groove", "title": "Disco Groove", "file": "disco-groove.jsong" },
+  { "id": "trap-beat", "title": "Trap Beat", "file": "trap-beat.jsong" },
+  { "id": "synth-drums-simple", "title": "Synth + Drums Simple", "file": "synth-drums-simple.jsong" },
+  { "id": "bass-and-beats", "title": "Bass and Beats", "file": "bass-and-beats.jsong" },
+  { "id": "melody-and-drums", "title": "Melody and Drums", "file": "melody-and-drums.jsong" },
+  { "id": "chord-stabs", "title": "Chord Stabs", "file": "chord-stabs.jsong" },
+  { "id": "channels-drums-melody", "title": "Channels: Drums + Melody", "file": "channels-drums-melody.jsong" }
+]

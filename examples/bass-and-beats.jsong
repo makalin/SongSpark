@@ -1,0 +1,8 @@
+{
+  "title": "Bass and Beats",
+  "code": "bd|A2  bd|A2  bd|E2  bd|E2\nbd|G2  bd|G2  bd|A2  bd|A2\nhh*8",
+  "bpm": 100,
+  "composer": "SongSpark",
+  "description": "Four-on-the-floor kick with a bass line (A2, E2, G2) and hi-hats. Synth and drums in parallel.",
+  "link": "https://github.com/frangedev/SongSpark"
+}

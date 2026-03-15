@@ -1,0 +1,8 @@
+{
+  "title": "Channels: Drums + Fast Melody",
+  "code": "@4 bd sd bd sd\n@16 A4 C5 E5 G5 A4 C5 E5 G5 A4 C5 E5 G5 A4 C5 E5 G5",
+  "bpm": 120,
+  "composer": "SongSpark",
+  "description": "First line = drum track (4 steps per bar, quarter notes). Second line = melody (16 steps per bar, 16ths). Each channel plays in parallel with its own density.",
+  "link": "https://github.com/frangedev/SongSpark"
+}

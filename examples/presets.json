@@ -1,0 +1,19 @@
+[
+  {"name": "Basic beat", "code": "bd sd bd sd hh hh hh hh"},
+  {"name": "Four on the floor", "code": "bd bd bd bd hh*4 hh*4 hh*4 hh*4 sd sd"},
+  {"name": "Hip-hop groove", "code": "bd sd bd hh sd hh bd hh cp hh sd hh bd hh"},
+  {"name": "House loop", "code": "bd hh cp hh bd hh sd hh bd hh cp hh bd hh sd hh"},
+  {"name": "Minimal techno", "code": "bd hh bd hh bd hh sd hh bd hh bd hh bd hh cp hh"},
+  {"name": "Breakbeat", "code": "bd bd sd bd bd sd hh*2 cp hh*2 bd sd bd bd"},
+  {"name": "Reggae one drop", "code": "bd sd hh hh bd hh sd hh bd hh hh hh sd hh"},
+  {"name": "Disco", "code": "bd hh sd hh bd hh sd hh bd hh sd hh bd hh cp hh"},
+  {"name": "Simple (bd sd hh)", "code": "bd sd hh"},
+  {"name": "Double hi-hat", "code": "bd sd hh*2 cp hh*2"},
+  {"name": "Drum & bass style", "code": "bd bd sd bd hh hh hh hh bd bd sd bd hh*2 cp hh*2"},
+  {"name": "Half-time", "code": "bd sd bd hh sd hh bd cp sd hh"},
+  {"name": "Two-step", "code": "bd bd sd bd hh hh cp hh"},
+  {"name": "Sparse", "code": "bd hh sd hh bd cp"},
+  {"name": "Funk", "code": "bd hh sd hh bd hh sd hh bd hh cp hh sd hh"},
+  {"name": "Trap style", "code": "bd bd bd sd hh*2 hh*2 cp bd sd hh*2"},
+  {"name": "Straight 8ths", "code": "bd sd hh*4 bd sd hh*4"}
+]

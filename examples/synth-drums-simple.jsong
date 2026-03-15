@@ -1,0 +1,8 @@
+{
+  "title": "Synth + Drums Simple",
+  "code": "bd|A4  sd|C5  bd|E5  sd|G5\nbd  sd  bd  sd",
+  "bpm": 120,
+  "composer": "SongSpark",
+  "description": "Kick and snare with a simple synth line (A4 C5 E5 G5). Use | to play drums and notes at the same time.",
+  "link": "https://github.com/frangedev/SongSpark"
+}
